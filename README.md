@@ -1,25 +1,69 @@
-# 👋 Hi, I'm Rico Mardiansyah
+<h1 align="center">👋 Hi, I'm Rico Mardiansyah</h1>
 
-### Full-Stack Web Developer
+<h3 align="center">💻 Full-Stack Web Developer</h3>
 
-Informatics Engineering graduate passionate about building **web applications and information systems** that solve real-world problems.
+<p align="center">
+  <a href="https://ricomardiansyah.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:ricomardiansyah27@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
+  </a>
+</p>
 
-💻 **Specialized in**
-`Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST API`
+---
 
-🎨 **Also experienced with**
-`Bootstrap` · `Tailwind CSS` · `HTML` · `CSS` · `Figma`
+### 🧑‍💻 About Me
 
-⚙️ **What I work on**
+🎓 Informatics Engineering graduate with a passion for building **web applications and information systems**.
 
-* Full-stack web application development
-* Information systems & database management
-* REST API integration
-* Authentication & role-based systems
-* Responsive and user-friendly interfaces
+⚡ Experienced in developing **Laravel-based applications**, REST API integrations, authentication systems, databases, and responsive interfaces.
 
-🌱 **Currently exploring** modern web technologies and improving my skills in backend & full-stack development.
+🚀 I enjoy turning ideas and real-world problems into **simple, useful, and reliable digital solutions**.
 
-### 🌐 Connect
+---
 
-[Portfolio](https://ricomardiansyah.vercel.app) · [LinkedIn](#) · [Email](mailto:ricomardiansyah27@gmail.com)
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,figma,vscode" />
+</p>
+
+---
+
+### 💡 What I Do
+
+| 🔧 Development       | ⚙️ Backend     | 🎨 Interface  |
+| -------------------- | -------------- | ------------- |
+| Full-Stack Web       | Laravel & PHP  | Responsive UI |
+| Information Systems  | REST API       | Bootstrap     |
+| Database Development | Authentication | Tailwind CSS  |
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://ricomardiansyah.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ricomardiansyah27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Building, learning, and improving every day.</i>
+</p>
