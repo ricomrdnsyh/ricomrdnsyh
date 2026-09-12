@@ -44,8 +44,8 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?ricomrdnsyh=RICOMRDNSYH&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ricomrdnsyh=RICOMRDNSYH&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <a href="https://ricomardiansyah.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://linkedin.com/in/ricomardiansyah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ricomardiansyah27@gmail.com">
