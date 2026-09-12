@@ -1,62 +1,113 @@
-<h1 align="center">👋 Hi, I'm Rico Mardiansyah</h1>
+<h1 align="center">👋 Hello, I'm Rico Mardiansyah</h1>
 
-<h3 align="center">💻 Full-Stack Web Developer</h3>
+<p align="center">
+  <strong>💻 Full-Stack Web Developer</strong>
+</p>
 
 <p align="center">
   <a href="https://ricomardiansyah.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore-0A66C2?style=for-the-badge" />
   </a>
   <a href="mailto:ricomardiansyah27@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
   </a>
 </p>
 
+<br>
+
+## 🚀 About Me
+
+🎓 **Informatics Engineering graduate** passionate about creating digital solutions through modern web technologies.
+
+💡 I focus on building **web applications and information systems** that are practical, reliable, and easy to use.
+
+⚡ My main experience is with **Laravel-based development**, including backend systems, REST API integration, database management, authentication, and responsive UI.
+
 ---
 
-### 🧑‍💻 About Me
-
-🎓 Informatics Engineering graduate with a passion for building **web applications and information systems**.
-
-⚡ Experienced in developing **Laravel-based applications**, REST API integrations, authentication systems, databases, and responsive interfaces.
-
-🚀 I enjoy turning ideas and real-world problems into **simple, useful, and reliable digital solutions**.
-
----
-
-### 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,figma,vscode&perline=6" />
 </p>
 
 ---
 
-### 💡 What I Do
+## 💻 What I Build
 
-| 🔧 Development       | ⚙️ Backend     | 🎨 Interface  |
-| -------------------- | -------------- | ------------- |
-| Full-Stack Web       | Laravel & PHP  | Responsive UI |
-| Information Systems  | REST API       | Bootstrap     |
-| Database Development | Authentication | Tailwind CSS  |
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+
+**Web Development**
+
+Full-Stack
+Web Applications
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Laravel
+REST API
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+MySQL
+Database Design
+
+</td>
+<td align="center" width="25%">
+
+### 🎨
+
+**UI & UX**
+
+Responsive
+User Interface
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub
+## 🔧 Core Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ricomrdnsyh=RICOMRDNSYH&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ricomrdnsyh=RICOMRDNSYH&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+```text
+Laravel / PHP       ████████████████████
+REST API            ██████████████████░░
+MySQL               ██████████████████░░
+JavaScript          ████████████████░░░░
+Frontend Development ████████████████░░░░
+```
 
 ---
 
-### 🌐 Let's Connect
+## 🌱 Currently
+
+> Building real-world applications, exploring modern web technologies,
+> and continuously improving my skills in **Full-Stack & Backend Development**.
+
+---
+
+<h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
   <a href="https://ricomardiansyah.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ricomardiansyah">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ricomardiansyah27@gmail.com">
@@ -65,5 +116,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Building, learning, and improving every day.</i>
+  <i>✨ Turning ideas into meaningful digital solutions.</i>
 </p>
