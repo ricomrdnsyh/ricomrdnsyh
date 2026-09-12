@@ -82,25 +82,6 @@ User Interface
 
 ---
 
-## 🔧 Core Skills
-
-```text
-Laravel / PHP       ████████████████████
-REST API            ██████████████████░░
-MySQL               ██████████████████░░
-JavaScript          ████████████████░░░░
-Frontend Development ████████████████░░░░
-```
-
----
-
-## 🌱 Currently
-
-> Building real-world applications, exploring modern web technologies,
-> and continuously improving my skills in **Full-Stack & Backend Development**.
-
----
-
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
